@@ -49,9 +49,9 @@ test.py -k test_CrocSwap_172_SwapTransaction --headed`
 
 - To generate html report for test use the `--html=report.html` flag.
 
-but do not forget to install the reporter first using pip: pip
+but do not forget to install the reporter first using pip: 
 
-install pytest-reporter-html1   
+`pip install pytest-reporter-html1`   
 
 `pytest test.py -k
 test_CrocSwap_172_SwapTransaction --headed --html=report.html`
