@@ -38,7 +38,7 @@ Follow the steps in order
 
 - Change the password you created from within the .env file
 
-.To run your tests in headed mode use the `--headed` flag. This will open up a browser window while running your tests.
+- To run your tests in headed mode use the `--headed` flag. This will open up a browser window while running your tests.
 
 `pytest test.py --headed`
 
