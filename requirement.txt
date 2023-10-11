@@ -1,0 +1,3 @@
+pytest == 7.4.2
+playwrigt == 1.38.0
+pytest-playwrigt == 0.4.3
